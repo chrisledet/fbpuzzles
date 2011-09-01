@@ -31,4 +31,4 @@ Example output (newline at end of every line):
 
 #### Execute 
 
-    hoppity input.txt
+    ./hoppity input.txt
