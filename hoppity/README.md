@@ -1,6 +1,6 @@
 ### Hoppity Hop 
 
-See: <https://www.facebook.com/careers/puzzles.php?puzzle_id=7>
+Source: <https://github.com/chrisledet/fbpuzzles/blob/master/hoppity/hoppity.m>
 
 #### Description
 The input file will contain a single positive integer (in base 10) expressed as a string using standard ASCII text (e.g. for example, the number "15" but without the double quotes). This number may or may not be padded on either side with white space. There will be no commas, periods, or any other non-numeric characters present within the number. The file may or may not terminate in a single new line character ("\n"). An example input file is below:
