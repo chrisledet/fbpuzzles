@@ -1,3 +1,5 @@
 *.o
 hoppity/hoppity
 smallworld/smallworld
+*.tgz
+*.tar.gz
